@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Vrishnishree V B</font></h1>
-<h3 align="center"><font face="Arial">Aspiring DevOps Engineer, Python Developer, and Aspiring Data Scientist from India</font></h3>
+<h3 align="center"><font face="Arial">Aspiring DevOps Engineer, Python Developer, and Aspiring Data Scientist from 🇮🇳</font></h3>
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
@@ -9,6 +9,8 @@
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" title="c" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" title="c++" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" title="html" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" title="css" width="40" height="40"/>
 </p>
 
 <!-- GIF -->
@@ -20,7 +22,6 @@
   <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>
 </p>
-
 
 <!-- DevOps Stack -->
 <h3 align="left"><font size="+2" face="Verdana">DevOps Stack:</font></h3>
@@ -40,9 +41,10 @@
 <!-- Editor / IDE -->
 <h3 align="left"><font size="+2" face="Verdana">Editor / IDE :</font></h3>
 <p align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F61113%2Fsublime-text&psig=AOvVaw2w9_TnZeBdAaiSFkXgdWOk&ust=1704215194720000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCyob3WvIMDFQAAAAAdAAAAABAD" alt="sublime" title="sublime" width="40" height="40"/>
+  <img src="https://uxwing.com/sublime-text-icon/" alt="sublime" title="sublime" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
 </p>
+
 
 <!-- Connect with me -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
