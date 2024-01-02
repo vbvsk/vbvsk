@@ -41,13 +41,25 @@
 <!-- Editor / IDE -->
 <h3 align="left"><font size="+2" face="Verdana">Editor / IDE :</font></h3>
 <p align="left">
-  <img src="https://uxwing.com/sublime-text-icon/" alt="sublime" title="sublime" width="40" height="40"/>
+  <img src="icons8-sublime-text-48.png" alt="sublime" title="sublime" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
+</p>
+
+
+<!-- Blogs Section -->
+<h3 align="left"><font size="+2" face="Verdana">Blogs:</font></h3>
+<p align="left">
+  <a href="https://vrishni.hashnode.dev/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/16342708?s=200&v=4" alt="Hashnode Blog" title="Hashnode Blog" width="60" height="60"/>
+  </a>
 </p>
 
 
 <!-- Connect with me -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/vrishnishree-v-b-8b0122248" target="_blank" rel="noreferrer">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/vrishnishree-v-b-8b0122248" target="_blank" rel="noreferrer">
+    <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/linkedin-512.png" alt="LinkedIn" title="LinkedIn" width="50" height="50"/>
+  </a>
 </p>
+
