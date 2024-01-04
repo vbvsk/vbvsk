@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Vrishnishree V B</font></h1>
-<h3 align="center"><font face="Arial">Aspiring DevOps Engineer, Python Developer, and Aspiring Data Scientist from 🇮🇳</font></h3>
+<h3 align="center"><font face="Arial">Aspiring DevOps Engineer, Python Developer from 🇮🇳</font></h3>
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
