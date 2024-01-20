@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Vrishnishree V B</font></h1>
-<h3 align="center"><font face="Arial">Aspiring DevOps Engineer, Python Developer from 🇮🇳</font></h3>
+<h3 align="center"><font face="Arial">Aspiring Python Developer from 🇮🇳</font></h3>
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
@@ -9,8 +9,6 @@
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" title="c" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" title="c++" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" title="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" title="css" width="40" height="40"/>
 </p>
 
 <!-- GIF -->
